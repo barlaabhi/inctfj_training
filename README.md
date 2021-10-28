@@ -11,6 +11,6 @@ echo "source ~/peda/peda.py" >> ~/.gdbinit
 commands to install ghidra
 ```
 sudo apt install openjdk-11-jdk
-Download latest relase from: [ghidra](https://github.com/NationalSecurityAgency/ghidra/releases)
-
 ```
+Download latest relase from: [ghidra] (https://github.com/NationalSecurityAgency/ghidra/releases)
+
